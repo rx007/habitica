@@ -1,4 +1,4 @@
-FROM node:16.13.1
+FROM node:lts
 
 # Install global packages
 RUN npm install -g gulp grunt-cli bower mocha
