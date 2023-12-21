@@ -5,7 +5,7 @@
   "main": "./website/server/index.js",
   "dependencies": {
     "@babel/core": "^7.16.12",
-    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-env": "^7.22.0",
     "@babel/register": "^7.16.9",
     "@google-cloud/trace-agent": "^5.1.6",
     "@parse/node-apn": "^5.1.0",
@@ -52,7 +52,7 @@
     "mongoose": "^5.13.7",
     "morgan": "^1.10.0",
     "nconf": "^0.11.3",
-    "node-gcm": "^1.0.5",
+    "node-gcm": "^1.1.0",
     "on-headers": "^1.0.2",
     "passport": "^0.5.0",
     "passport-facebook": "^3.0.0",
@@ -75,7 +75,7 @@
     "validator": "^13.7.0",
     "vinyl-buffer": "^1.0.1",
     "winston": "^3.5.0",
-    "winston-loggly-bulk": "^3.2.1",
+    "winston-loggly-bulk": "^3.3.0",
     "xml2js": "^0.4.23"
   },
   "private": true,
